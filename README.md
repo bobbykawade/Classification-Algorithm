@@ -1,2 +1,2 @@
 # Logistic-Regression
-Classiffication
+Classification
